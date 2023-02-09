@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "587296728624",
+    "project_id": "marketing-store-c1e6f",
+    "storage_bucket": "marketing-store-c1e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587296728624:android:a2e10a5923baafaf18eff5",
+        "android_client_info": {
+          "package_name": "com.example.encomme_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587296728624-2962119ol2pvkc5fk7uv5eg863tvi46g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encomme_shop",
+            "certificate_hash": "7bed391061b0ae7cd3fd9323959efd05362c7674"
+          }
+        },
+        {
+          "client_id": "587296728624-m3rv806d94f1oli122pbjrimgcolcvtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByocVZpfbtzxmXQ9O7mp7KOyY3KR5APrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587296728624-m3rv806d94f1oli122pbjrimgcolcvtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
